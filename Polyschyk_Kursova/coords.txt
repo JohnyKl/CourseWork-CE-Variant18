@@ -1,0 +1,12 @@
+Points:
+Point1: x1=200, y1=10
+Point2: x2=10, y2=100
+Point3: x3=390, y3=100
+Point4: x4=200, y4=40
+Point5: x5=140, y5=75
+Point6: x6=260, y6=75
+Point7: x7=125, y7=55
+Point8: x8=96, y8=400
+Point9: x9=74, y9=21
+Point10: x10=333, y10=254
+Point11: x11=54, y11=85
